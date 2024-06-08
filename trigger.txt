@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/ma_06/home-assistant:2024.6
+homeassistant/home-assistant:2024.6.1 registry.cn-hangzhou.aliyuncs.com/ma_06/home-assistant:2024.6.1
