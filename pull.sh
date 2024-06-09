@@ -4,7 +4,7 @@
 # docker image inspect homeassistant/home-assistant:2024.6  | grep Architectur
 # "Architecture": "arm64",
 
-# 不指定 cpu 架构
+# aarch64 架构
 cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '
 cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '| sh
 
