@@ -1,1 +1,1 @@
-yaming116/sherpa-onnx-asr registry.cn-hangzhou.aliyuncs.com/ma_06/sherpa-onnx-asr
+homeassistant/home-assistant:2024.6.3 registry.cn-hangzhou.aliyuncs.com/ma_06/home-assistant:2024.6.3
