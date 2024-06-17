@@ -5,12 +5,12 @@
 # "Architecture": "arm64",
 
 # aarch64 架构
-# cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '
-# cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '| sh
+cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '
+cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '| sh
 
 # 不指定 cpu 架构
-cat trigger.txt |awk '{print "docker pull " $1} '
-cat trigger.txt |awk '{print "docker pull " $1} '| sh
+# cat trigger.txt |awk '{print "docker pull " $1} '
+# cat trigger.txt |awk '{print "docker pull " $1} '| sh
 
 # 指定 cpu 架构
 # cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '
