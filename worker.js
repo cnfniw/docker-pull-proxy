@@ -1,6 +1,7 @@
 'use strict'
 
 const hub_host = 'registry-1.docker.io'
+// const hub_host = 'ghcr.io'
 const auth_url = 'https://auth.docker.io'
 
 const workers_host = '你的自定义域名'
