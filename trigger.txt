@@ -1,1 +1,1 @@
-b3log/siyuan:v3.0.17 registry.cn-hangzhou.aliyuncs.com/ma_06/siyuan:v3.0.17
+b3log/siyuan:v3.0.14 registry.cn-hangzhou.aliyuncs.com/ma_06/siyuan:v3.0.14
