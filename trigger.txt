@@ -1,1 +1,1 @@
-docker pull cym1102/nginxwebui:4.1.9 registry.cn-hangzhou.aliyuncs.com/ma_06/nginxwebui:4.1.9
+cym1102/nginxwebui:4.1.9 registry.cn-hangzhou.aliyuncs.com/ma_06/nginxwebui:4.1.9
