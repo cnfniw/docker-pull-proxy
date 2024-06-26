@@ -1,1 +1,1 @@
-emby/embyserver:4.7.5.0 registry.cn-hangzhou.aliyuncs.com/ma_06/embyserver:4.7.5.0
+emby/embyserver:4.7.11.0 registry.cn-hangzhou.aliyuncs.com/ma_06/embyserver:4.7.11.0
