@@ -1,1 +1,1 @@
-cym1102/nginxwebui:4.1.9 registry.cn-hangzhou.aliyuncs.com/ma_06/nginxwebui:4.1.9
+nginxproxy/acme-companion:2.4 registry.cn-hangzhou.aliyuncs.com/ma_06/acme-companion:2.4
