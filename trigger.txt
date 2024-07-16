@@ -1,1 +1,1 @@
-nginxproxy/acme-companion:2.4 registry.cn-hangzhou.aliyuncs.com/ma_06/acme-companion:2.4
+finab/bark-server:v2.1.5 registry.cn-hangzhou.aliyuncs.com/ma_06/bark-server:v2.1.5
