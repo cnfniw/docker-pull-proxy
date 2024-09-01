@@ -1,8 +1,14 @@
 name: Docker
 
 on:
-  push:
-    branches: [ main ]
+  workflow_dispatch: # 允许手动触发
+    inputs:
+      branch:
+        description: 'The branch to pull from'
+        default: 'main'
+        required: false
+  # push:
+  #   branches: [ main ]
   # pull_request:
   #   branches: [ main ]
   # schedule:
