@@ -1,1 +1,1 @@
-halohub/halo:2.18.0 registry.cn-hangzhou.aliyuncs.com/ma_06/halo:2.18.0
+mysql:8.4.2 registry.cn-hangzhou.aliyuncs.com/ma_06/mysql:8.4.2
