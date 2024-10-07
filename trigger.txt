@@ -1,1 +1,1 @@
-hslr/sun-panel:1.6.0-beta24-09-06 registry.cn-hangzhou.aliyuncs.com/ma_06/sun-panel:1.6.0-beta24-09-06
+yaming116/dockovpn:latest registry.cn-hangzhou.aliyuncs.com/ma_06/dockovpn:1.14.0
