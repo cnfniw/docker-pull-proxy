@@ -1,1 +1,1 @@
-yaming116/dockovpn:latest registry.cn-hangzhou.aliyuncs.com/ma_06/dockovpn:1.14.0
+rustdesk/rustdesk-server-s6:latest registry.cn-hangzhou.aliyuncs.com/ma_06/rustdesk-server-s6:1
