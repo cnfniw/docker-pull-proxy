@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.10.2 registry.cn-hangzhou.aliyuncs.com/ma_06/home-assistant:2024.10.2
+answerdev/answer:latest registry.cn-hangzhou.aliyuncs.com/ma_06/answerdev/answer:latest
