@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.12.4 registry.cn-hangzhou.aliyuncs.com/ma_06/home-assistant-aarch64:2024.12.4
+homeassistant/home-assistant:2024.12.5 registry.cn-hangzhou.aliyuncs.com/ma_06/home-assistant-x86:2024.12.5
