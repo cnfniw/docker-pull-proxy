@@ -1,1 +1,1 @@
-b3log/siyuan:v3.0.17 registry.cn-hangzhou.aliyuncs.com/ma_06/siyuan-x86:v3.0.17
+hslr/sun-panel:1.6.0 registry.cn-hangzhou.aliyuncs.com/ma_06/sun-panel-x86:1.6.0
