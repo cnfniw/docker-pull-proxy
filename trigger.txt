@@ -1,1 +1,1 @@
-halohub/halo:2.19.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-halo:2.19.0
+hurlenko/filebrowser:v2.30.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-filebrowser:v2.30.0
