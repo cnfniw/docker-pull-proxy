@@ -1,1 +1,1 @@
-xhongc/music_tag_web:2.1.9 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-music_tag_web:2.1.9
+b3log/siyuan:v3.0.17 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-b3log/siyuan:v3.0.17
