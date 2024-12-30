@@ -1,1 +1,1 @@
-b3log/siyuan:v3.0.17 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-siyuan:v3.0.17
+rustdesk/rustdesk-server-s6:1 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-rustdesk-server-s6:1
