@@ -1,1 +1,1 @@
-hurlenko/filebrowser:v2.30.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-filebrowser:v2.30.0
+hub.imnks.com/portainer/portainer-ce:2.19.4 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-portainer-ce:2.19.4
