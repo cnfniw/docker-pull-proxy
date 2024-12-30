@@ -1,1 +1,1 @@
-openspeedtest/latest:v2.0.5 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-openspeedtest/latest:v2.0.5
+openspeedtest/latest:v2.0.5 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-openspeedtest:v2.0.5
