@@ -1,1 +1,1 @@
-postgres:15 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-postgres:15
+halohub/halo:2.19.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-halo:2.19.0
