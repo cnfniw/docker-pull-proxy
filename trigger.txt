@@ -1,1 +1,1 @@
-neilpang/acme.sh:3.0.7 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-acme.sh:3.0.7
+hslr/sun-panel:1.6.1 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-sun-panel:1.6.1
