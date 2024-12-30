@@ -1,1 +1,1 @@
-yaming116/sherpa-onnx-asr:2024-6-11 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-sherpa-onnx-asr:2024-6-11
+postgres:15 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-postgres:15
