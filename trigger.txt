@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server-s6:1 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-rustdesk-server-s6:1
+emby/embyserver:4.9.0.30 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-embyserver:4.9.0.30
