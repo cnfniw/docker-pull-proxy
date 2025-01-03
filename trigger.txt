@@ -1,1 +1,1 @@
-deluan/navidrome:0.54.2 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-navidrome:0.54.2
+emqx/emqx:5.8 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-emqx:5.8
