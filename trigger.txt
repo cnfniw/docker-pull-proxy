@@ -1,1 +1,1 @@
-emqx/emqx:5.8 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-emqx:5.8
+node:16 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-node:16
