@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.12.4 registry.cn-hangzhou.aliyuncs.com/ma_06/aarch64-home-assistant:2024.12.4
+yafoo/pushme-server:1.7.0 registry.cn-hangzhou.aliyuncs.com/ma_06/aarch64-pushme-server:1.7.0
