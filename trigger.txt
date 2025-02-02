@@ -1,1 +1,1 @@
-node:23 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-node:23
+b3log/siyuan:v3.1.20 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-siyuan:v3.1.20
