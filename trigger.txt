@@ -1,1 +1,1 @@
-adguard/adguardhome:v0.107.56 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-adguardhome:v0.107.56
+ghcr.io/ptbsare/home-assistant-addons/amd64-addon-sherpa-onnx-tts-stt:0.2.6 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-sherpa-onnx-tts-stt:0.2.6
