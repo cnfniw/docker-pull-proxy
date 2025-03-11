@@ -1,1 +1,1 @@
-dzzoffice/onlyoffice:latest registry.cn-hangzhou.aliyuncs.com/ma_06/x86-dzzoffice-onlyoffice:latest
+mysql:5.7.27 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-mysql:5.7.27
