@@ -1,1 +1,1 @@
-onlyoffice/documentserver:8.3 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-onlyoffice-documentserver:8.3
+dzzoffice/onlyoffice:latest registry.cn-hangzhou.aliyuncs.com/ma_06/x86-dzzoffice-onlyoffice:latest
