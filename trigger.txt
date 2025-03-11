@@ -1,1 +1,1 @@
-ghcr.io/ptbsare/home-assistant-addons/amd64-addon-sherpa-onnx-tts-stt:0.2.6 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-sherpa-onnx-tts-stt:0.2.6
+onlyoffice/documentserver:8.3 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-onlyoffice-documentserver:8.3
