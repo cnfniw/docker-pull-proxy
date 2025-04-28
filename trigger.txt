@@ -1,1 +1,1 @@
-ittel/onlyoffice:7.5.0zh-cn registry.cn-hangzhou.aliyuncs.com/ma_06/x86-ittel-onlyoffice:7.5.0zh-cn
+emby/embyserver:4.8.11.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-embyserver:4.8.11.0
