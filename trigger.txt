@@ -1,1 +1,1 @@
-emby/embyserver:4.8.11.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-embyserver:4.8.11.0
+ntrohr/localsend registry.cn-hangzhou.aliyuncs.com/ma_06/x86-ntrohr/localsend
