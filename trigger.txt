@@ -1,2 +1,3 @@
 # b3log/siyuan:v3.5.0 registry.cn-hangzhou.aliyuncs.com/ma_06/x86-siyuan:v3.5.0
-yaming116/dockovpn:latest registry.cn-hangzhou.aliyuncs.com/ma_06/x86-dockovpn:2024.10.7
+# yaming116/dockovpn:latest registry.cn-hangzhou.aliyuncs.com/ma_06/x86-dockovpn:2024.10.7
+networkstatic/iperf3:latest registry.cn-hangzhou.aliyuncs.com/ma_06/iperf3:2025.5.4
